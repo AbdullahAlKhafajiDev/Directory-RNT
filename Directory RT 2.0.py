@@ -9,6 +9,8 @@ print(FilesInDirectory)
 print(space)
 FileName = str(input("Name for the files? "))
 x = input("What # do you want to start from? ")
+if (x == "" or x == " "):
+    x = 1
 for file in FilesInDirectory:
     FileExtension = os.path.splitext(file)
     FileExtension = FileExtension[1]
