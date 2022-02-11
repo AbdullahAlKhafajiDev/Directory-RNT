@@ -6,4 +6,3 @@ This is an updated version of my original rename tool but with <b>much less hass
 2. Run the script. 
 3. input the requested info.
 4. BAM!
-  
