@@ -7,8 +7,8 @@ PythonFile = os.path.basename(__file__)
 FilesInDirectory.remove(PythonFile)
 print(FilesInDirectory)
 print(space)
-x = input("What # do you want to start from? ")
 FileName = str(input("Name for the files? "))
+x = input("What # do you want to start from? ")
 for file in FilesInDirectory:
     FileExtension = os.path.splitext(file)
     FileExtension = FileExtension[1]
