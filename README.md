@@ -12,7 +12,7 @@ The script does not rename itself, so you don't have to worry about the name of 
 **Instructions:**
 1. Place the script in the directory you want the script to have access to.
 2. Run the script.
-3. The first prompt will be if you want advanced naming scheme, meaning a seperate name for each file type, or a general name that is common across all file types.
+3. The first prompt will ask if you want advanced naming scheme, meaning a seperate name for each file type, or a general name that is common across all file types.
   * If you enter Y, the script will use ONE name across all file types. 
   * If you enter N, the script will ask for a different name for each file type.
 4. The script will ask what number to start from. For example if you want the script to start renaming from IMG52 and continue to 53 and up, you would put "IMG" for the name prompt and "52" for the starting number prompt.
