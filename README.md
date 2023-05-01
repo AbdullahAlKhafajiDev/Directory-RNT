@@ -3,6 +3,7 @@
 This tool allows for renaming a whole directory with ease. You can customize how basic or complicated you want your renaming pattern.
 
 ## Documentation
+The script does not rename itself, so you don't have to worry about the name of the script changing after the renaming.
 
 **BEFORE RUNNING THE TOOL** make sure to have Python 3 installed on your system. The exact version number doesn't matters as long as it's Python 3.
 
